@@ -41,8 +41,10 @@ docker image ls
 
 Delete it: 
 ```
-docker rmi <image-id>
+docker image rm <image-id>
 ```
 
 ## Sample Docker image
 There is a sample image I've hosted in Docker Hub, you can get [here](https://cloud.docker.com/u/erasmopinheiro/repository/docker/erasmopinheiro/sample-flask-app).
+
+
